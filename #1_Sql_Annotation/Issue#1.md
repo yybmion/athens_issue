@@ -109,7 +109,8 @@ WHERE agora_id = 1;
 - end_time을 **현재 시간**으로 지정해주는 `CURRENT_TIMESTAMP`을 사용했다.
 - 이후 오류는 사라지고 테스트에 통과하였다.
 
-![img.png](img.png)
+![img](https://github.com/user-attachments/assets/c3b4c879-593e-4dcd-bee3-f5ffb99bb3f9)
+
 
 
 
