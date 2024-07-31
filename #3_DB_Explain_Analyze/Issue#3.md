@@ -97,9 +97,9 @@ LIMIT 11;
 - 먼저 `Explain`을 통해 두개의 쿼리를 비교해보자
 
 SubQuery
-![img_2.png](img_2.png)
+![img_2.png](../img/img_2.png)
 Join
-![img_1.png](img_1.png)
+![img_1.png](../img/img_1.png)
 
 첫번째는 `Join문`에서 탐색 예상 row수가 `19만개`로 매우 많다는 것을 알 수 있다.
 이는 **성능에 영향을 끼치며** 실제로 SubQeury는 `0.xx` 초가 걸리는 반면 JOIN은 `2.xx`초가 걸리는것을 볼 수 있다.
